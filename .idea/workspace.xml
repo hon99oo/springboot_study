@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86514a32-6e5e-43c0-bd80-e72d889f481e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/honggoo/study/springboot/member/MemberRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/honggoo/study/springboot/member/MemoryMemberRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +32,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -82,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677165532287</updated>
       <workItem from="1677165535412" duration="5000" />
-      <workItem from="1677165600199" duration="1710000" />
+      <workItem from="1677165600199" duration="2096000" />
     </task>
     <servers />
   </component>
